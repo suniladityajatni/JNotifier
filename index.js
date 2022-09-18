@@ -108,7 +108,7 @@ async function runEvery24Hours() {
     return finalResult;
 }
 
-const repeatAfter=1000;//24*3600*60;
+const repeatAfter=24*3600*60;
 setTimeout(() => {
     const a = runEvery24Hours();
     a.then(() => {
