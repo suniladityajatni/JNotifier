@@ -1,0 +1,28 @@
+.body{
+  margin: 0;
+}
+.App{
+  text-align: center;
+  background-color: #99ebff;
+  height: 100%;
+}
+h1{
+  margin: 30px auto 0px;
+  text-decoration: underline;
+}
+.Form{
+  display: flex;
+  height: 92vh;
+  /* width: 100vw; */
+  justify-content: center;
+  align-items: center;
+  background:#99ebff;
+}
+.Form2{
+  text-align:left;
+  padding:20px;
+  border: 2px solid black;
+  border-radius: 2px;
+  background:  #ccf5ff;
+  width:50vw;
+}

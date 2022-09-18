@@ -1,0 +1,96 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+    .job-container{
+        width: 100%;
+        background: #F2F2F2;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .job{
+        background: #FAFAFA;
+        width: 50%;
+        padding: 5px 30px;
+        border:1px solid black;
+        text-align: left;
+        margin:1px auto;
+    }
+    .job-heading,.job-id,.job-url,.job-title{
+        margin:1px;
+    }
+</style>
+</head>
+<body>
+    <div>
+        <h1>Here are some awsome job openings for you :)</h1>
+        <div class="job-container">
+        <% jobs.forEach((job) => { %>
+            <div class="job">
+                <h3 class="job-heading"> <%= job.companyName %> </h3>
+                <h4 class="job-title"> <%= job.name %> r</h4>
+                <p class="job-id"> Job id: <b> <%= job.id %> </b> </p>
+                <a class="job-url" href= "<%= job.url %>"> Apply link</a>
+            </div>
+            <br>
+        <% }) %>
+        </div>
+    </div>
+</body>
+</html> -->
+
+
+
+
+<container>
+    <row>
+        <columns small="12">
+
+            <table class="one-column btn btn-primary" border="0" cellpadding="0" cellspacing="0" width="100%"
+                style="border-spacing:0; border-left:1px solid #e8e7e5; border-right:1px solid #e8e7e5; border-bottom:1px solid #e8e7e5; padding: 10px"
+                bg="#FFFFFF">
+                <tbody>
+                    <div width="350" height="150" align="center" style="border-radius: 50%;">
+                        <h1>Here are some fresh job openings :)</h1>
+                    </div>
+
+                    <tr>
+                        <td align="center" style="padding:0px 40px 40px 40px;background:#F2F2F2">
+
+                            <% jobs.forEach((job)=> { %>
+                                <div
+                                    style="text-align:left;border:1px solid black;background:#FAFAFA;width: 50%;padding:2px 10px">
+                                    <h3>
+                                        <%= job.companyName %>
+                                    </h3>
+                                    <h4>
+                                        <%= job.name %>
+                                    </h4>
+                                    <p> Job id: <b>
+                                            <%= job.id %>
+
+                                        </b> </p>
+                                    <table class="btn btn-primary" role="presentation" border="0" cellpadding="0"
+                                        cellspacing="0"
+                                        style="border-radius: 6px; border-collapse: separate !important;">
+                                        <tbody>
+                                            <tr>
+                                                <td style="line-height: 24px; font-size: 16px; border-radius: 6px; margin: 0;"
+                                                    align="center" bgcolor="#0d6efd">
+                                                    <a href="<%= job.url%>"
+                                                        style="color: #ffffff; font-size: 16px; font-family: Helvetica, Arial, sans-serif; text-decoration: none; border-radius: 6px; line-height: 20px; display: inline-block; font-weight: normal; white-space: nowrap; background-color: #0d6efd; padding: 8px 12px; border: 1px solid #0d6efd;">Apply</a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <% }) %>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </columns>
+    </row>
+</container>

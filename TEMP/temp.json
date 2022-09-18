@@ -1,0 +1,468 @@
+{
+    "status": "success",
+    "data": {
+        "results": [
+            {
+                "id": 113934,
+                "title": "Software  Engineer II (Enterprise Security)",
+                "description": "At Uber, we reimagine the way the world moves for the better. The idea was born on a snowy night in Paris in 2008, and ever since then, our DNA of reimagination and reinvention carries on. We've grown into a global platform moving people and things in ever-expanding ways, taking on big problems to help drivers, riders, delivery partners, and eaters make movement happen at the push of a button for everyone, everywhere.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\nUber's Enterprise Security Team is looking for a hands-on Software Engineer to help us solidify our security posture through efforts in the following areas:\n\n \n\n* Endpoint hardening of Macs, PCs, Linux boxes, production servers, network equipment, SaaS, etc.  \n* Secure Configuration Baseline Monitoring  \n* Device Attestation  \n* Network Security  \n* Data Loss Prevention  \n* Shadow IT identification and remediation  \n* Audit &amp; Compliance support  \n* Malware scanning\n\nThrough your commitment to software engineering in support of our Engineering Security initiatives, you'll help our team as we bring tooling to Uber that protects our systems. Regardless of whether it's a workstation, 3rd party SaaS solution, server, or a network device , we need countermeasures and visibility to every threat and the code that you write will have a material impact on our security posture.\n\n \n\nAdditionally you will be working amongst a team of seasoned security engineers and will be able to broaden your skill base and domain knowledge as you develop your security engineering skills while continuing to hone your software engineering skills.\n\n \n\n**What the Candidate Will Need / Bonus Points**\n\n \n\n\\---- What the Candidate Will Do ----  \n  \n\n\nOn the Enterprise Security Team you will\n\n \n\n \n\n  * Develop software that supports a broad collection of applications being developed to further our security posture.\n  * Identify opportunities to inform the design of the systems we build within Engineering Security and participate in both the design and development of those systems.\n  * Help make critical build vs. buy decisions and work to bring custom built or acquired solutions to production\n  * Identify shortcomings in our security posture\n  * Work with our Red &amp; Purple Teams to respond to identified threats\n  * Recommend/implement steps to better secure our systems.\n  * Assist in investigations related to security events.\n\n\n\n \n\n  \n  \n\\---- Basic Qualifications ----  \n  \n\n\n  * 3+ years of demonstrated experience in software engineering and/or security engineering\n  * Demonstrated experience in coding and/or scripting \\- front and backend desirable e\n  * Understanding of authentication, authorization, and directory services\n  * Basic knowledge across a multitude of security domain areas\n\n\n\n \n\n  \n  \n\\---- What the Candidate Will Do ----  \n  \n\n\n  * 5+ years of of hands on coding experience across multiple languages\n  * Distributed systems design\n  * Backend &amp; frontend engineering experience\n  * Familiarity with Security benchmarks from CIS and/or NIST\n  * Experience across a diverse swath of security domain areas (some but not all required):\n  * Endpoint hardening\n  * Email threat detection &amp; remediation\n  * SSO (SAML/OpenIDC)\n  * Cryptography\n  * Familiarity with operating system internals and hardening\n  * Experience developing, deploying, and configuring security services and tools\n\n\n\n\n\nAt Uber, we reimagine the way the world moves for the better. The idea was born on a snowy night in Paris in 2008, and ever since then, our DNA of reimagination and reinvention carries on. We've grown into a global platform moving people and things in ever-expanding ways, taking on big problems to help drivers, riders, delivery partners, and eaters make movement happen at the push of a button for everyone, everywhere.\n\n \n\n  \nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n  \nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role. \n\n \n\n  \nUber is committed to a safe workplace.  We have implemented COVID-19 safety protocols that meet or exceed local public health guidelines.  Workplace safety remains our number one priority.  As a result, and depending on the workplace location, Uber either requires* or recommends employees be vaccinated to access any of our facilities; this is subject to change solely at the Company's discretion. \n\n \n\n  \n* Accommodations may be available based on religious and/or medical conditions, or as required by applicable law. To request an accommodation, please reach out to accommodations@uber.com",
+                "department": "Engineering",
+                "type": "",
+                "programAndPlatform": "",
+                "location": {
+                    "country": "IND",
+                    "region": "Karnataka",
+                    "city": "Bangalore",
+                    "countryName": "India"
+                },
+                "featured": false,
+                "level": "3",
+                "creationDate": "2022-04-08T01:05:00.000Z",
+                "otherLevels": null,
+                "team": "Security Engineer",
+                "portalID": "EXTERNAL",
+                "isPipeline": false,
+                "statusID": "D31001",
+                "statusName": "Approved",
+                "updatedDate": "2022-08-23T10:43:00.000Z",
+                "uniqueSkills": "",
+                "allLocations": [
+                    {
+                        "country": "IND",
+                        "region": "Karnataka",
+                        "city": "Bangalore",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "Telangana",
+                        "city": "Hyderabad",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "",
+                        "city": "Karnataka",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "",
+                        "city": "Telangana",
+                        "countryName": "India"
+                    }
+                ]
+            },
+            {
+                "id": 114142,
+                "title": "Senior Machine Learning Engineer",
+                "description": "**About the Role**\n\n \n\n \n\nThe Discovery is responsible for the end-to-end experience of the Feed and Search surfaces on the UberEats app. The group's mission is to build a reliable, scalable, and personalized platform to enable effortless discovery of food, groceries, pharmacy, and other verticals for consumers everywhere. As the world moves towards high adoption of delivery services, we believe that effortless discovery will be one of the biggest product differentiators in the years to come.\n\n \n\nThe group owns and operates business-critical backend services, search engines, knowledge graphs and several machine learning models, and hundreds of data pipelines that feed and monitor the models.\n\n \n\n**What the Candidate Will Need / Bonus Points**\n\n \n\n  \n\n\n  * Analyze, Design and Develop innovative machine learning based solutions to to problem areas that are fundamental to Uber's business (Search, Home Feed, Recommendations, Personalization)\n  * Partner with Product Management, Data Science, Infrastructure teams to develop ML systems and models\n  * Build Ranking and Personalization models to serve UberEats Search and Recommendation needs\n  * Build a User and Content Knowledge base that act as the basis for prediction, classification and ranking of anything in UberEats\n\n\n\n \n\n  \n  \n\\---- Basic Qualifications ----  \n  \n\n\n  * 4+ years of industry experience, or a relevant Masters Degree/Ph.D. in a relevant technical field with 2+ years of industry experience\n  * Strong understanding of theory and practice in Machine Learning and AI\n  * Experience with production systems at scale, including search, personalization, recommender systems or knowledge graphs\n  * Proficiency in Python, Golang, Java or other relevant programming languages\n  * Strong modeling skills and applied experience with Pytorch, Tensorflow, Caffe2 or relevant frameworks\n\n  \n\n\n  * Experience with any of the following: Spark, Hive, Kafka, Cassandra - Good to have\n  * Research experience or deep understanding of one of the following: Semantic Search, Natural Language Processing, Lexical Search, Information Retrieval, Reinforcement Learning Personalization Techniques and Recommendation Models,\n  * Ability to work with ambiguous problem definitions.\n  * Ability to innovate and add value on top of existing solutions, as well as break new ground with inventive solutions.\n  * Proven track record of software artifacts or academic publications in applied machine learning\n  * Ability to deliver end-to-end solutions, including data preparation, training, and deployment\n  * Proven ability to communicate technical knowledge to a business audience\n  * Collaborative attitude and constructive approach\n\n\n\n\n\nAt Uber, we reimagine the way the world moves for the better. The idea was born on a snowy night in Paris in 2008, and ever since then, our DNA of reimagination and reinvention carries on. We've grown into a global platform moving people and things in ever-expanding ways, taking on big problems to help drivers, riders, delivery partners, and eaters make movement happen at the push of a button for everyone, everywhere.\n\n \n\n  \nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n  \nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role. \n\n \n\n  \nUber is committed to a safe workplace.  We have implemented COVID-19 safety protocols that meet or exceed local public health guidelines.  Workplace safety remains our number one priority.  As a result, and depending on the workplace location, Uber either requires* or recommends employees be vaccinated to access any of our facilities; this is subject to change solely at the Company's discretion. \n\n \n\n  \n* Accommodations may be available based on religious and/or medical conditions, or as required by applicable law. To request an accommodation, please reach out to accommodations@uber.com",
+                "department": "Engineering",
+                "type": "",
+                "programAndPlatform": "",
+                "location": {
+                    "country": "IND",
+                    "region": "Karnataka",
+                    "city": "Bangalore",
+                    "countryName": "India"
+                },
+                "featured": false,
+                "level": "5",
+                "creationDate": "2022-04-15T05:19:00.000Z",
+                "otherLevels": null,
+                "team": "Machine Learning",
+                "portalID": "EXTERNAL",
+                "isPipeline": false,
+                "statusID": "D31001",
+                "statusName": "Approved",
+                "updatedDate": "2022-07-22T07:55:00.000Z",
+                "uniqueSkills": "",
+                "allLocations": [
+                    {
+                        "country": "IND",
+                        "region": "Karnataka",
+                        "city": "Bangalore",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "Telangana",
+                        "city": "Hyderabad",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "",
+                        "city": "Karnataka",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "",
+                        "city": "Telangana",
+                        "countryName": "India"
+                    }
+                ]
+            },
+            {
+                "id": 117049,
+                "title": "Senior Technical Program Manager",
+                "description": "**About the Role**\n\n \n\nJoin Uber's Technical Program Management (TPM) team and be a leader in developing and driving impactful cross-org initiatives for the Rides organization.  Rides at Uber is responsible for the main consumer application that provides transportation, delivery, and other Uber services for tens of millions of users and generates billions of dollars in revenue.\n\n \n\nAs the TPM, you will work closely with product and engineering to launch innovative features and new user experiences.  In addition, you will be responsible for creating programs with Uber's engineers to continuously improve the reliability, availability, and quality of our products.\n\n \n\nThanks to your work, Uber will continue to build a world-class experience and unlock opportunities for millions of people every day.\n\n \n\n**What You'll do: **\n\n  * Provide leadership to teams as an owner for high-impact initiatives.\n  * Engage and energize your teams to achieve goals.\n  * Lead all aspects of program delivery; planning, evaluating risks, resolving dependencies, and communicating status to upper management and team members.\n  * Proactively remove obstacles to drive momentum, progress, and results.\n  * Develop and implement continuous improvements to the engineering organization and the program management process.\n  * Share and/or develop frameworks, tools, and methodologies that can be adopted throughout the organization.\n\n\n\n \n\n**What You'll need:**  \n\n\n  * 5+ years as a Technical Program Manager or Engineering Manager in a high tech company, 8+ years of total experience\n  * Strong technical experience in software development at scale.\n  * Core TPM skills such as:\n  * Cross-team and cross-functional collaboration.\n  * Metrics and data-driven: experience determining effective program KPIs and using them to measure and drive program success.\n  * Strong organizational skills to prioritize tasks and execute efficiently.\n  * Identifying process gaps, measuring progress, and balancing engineering and product efficiency with process overhead.\n\n\n\n\n\nAt Uber, we reimagine the way the world moves for the better. The idea was born on a snowy night in Paris in 2008, and ever since then, our DNA of reimagination and reinvention carries on. We've grown into a global platform moving people and things in ever-expanding ways, taking on big problems to help drivers, riders, delivery partners, and eaters make movement happen at the push of a button for everyone, everywhere.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role.\n\n \n\n \n\nUber is committed to a safe workplace.  We have implemented COVID-19 safety protocols that meet or exceed local public health guidelines.  Workplace safety remains our number one priority.  As a result, and depending on the workplace location, Uber either requires* or recommends employees be vaccinated to access any of our facilities; this is subject to change solely at the Company's discretion.\n\n \n\n \n\n* Accommodations may be available based on religious and/or medical conditions, or as required by applicable law. To request an accommodation, please reach out to [accommodations@uber.com](mailto:accommodations@uber.com).",
+                "department": "Engineering",
+                "type": "",
+                "programAndPlatform": "",
+                "location": {
+                    "country": "IND",
+                    "region": "Karnataka",
+                    "city": "Bangalore",
+                    "countryName": "India"
+                },
+                "featured": false,
+                "level": "5",
+                "creationDate": "2022-08-09T00:31:00.000Z",
+                "otherLevels": null,
+                "team": "Technical Program Manager",
+                "portalID": "EXTERNAL",
+                "isPipeline": false,
+                "statusID": "D31001",
+                "statusName": "Approved",
+                "updatedDate": "2022-08-24T06:06:00.000Z",
+                "uniqueSkills": "",
+                "allLocations": [
+                    {
+                        "country": "IND",
+                        "region": "Telangana",
+                        "city": "Hyderabad",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "",
+                        "city": "Karnataka",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "",
+                        "city": "Telangana",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "Karnataka",
+                        "city": "Bangalore",
+                        "countryName": "India"
+                    }
+                ]
+            },
+            {
+                "id": 113810,
+                "title": "IT Operations Program Manager (APAC)",
+                "description": "**About the Role**\n\n \n\n \n\nIT Operations Program Leads at Uber are expected to think beyond the ticket queues. You will be expected to work cross-organizationally to help develop and implement Global Service Desk, IT Supply-Chain, AVOps, InfraOps, AppOps procedures and policies. Leads at this level have IT technical program management experience working with globally distributed teams, and your work will influence IT Engineering, IT Operations, and how Uber operates globally. Here's your chance to be a part of Uber history!  \n\n \n\n**What the Candidate Will Need / Bonus Points**\n\n \n\n\\---- What the Candidate Will Do ----  \n  \n\n\n  * 8+ years of IT experience\n  * Bachelor of Science in Information Technology, Computer Science, or equivalent combination of education and **work experience**\n  * Strong problem solving, organization and project management skills\n  * A service-oriented attitude with the utmost discretion in handling sensitive/private technical issues and other matters\n  * Working Audio/Video tech knowledge\n  * Prior experience supporting / administrating most of the following technologies:\n  * VMWare; Azure; MDM; Google Admin; Mac OS; Windows 7+; Windows Server; Networking (Wired\\WIFI\\VPN)\n  * Ability to work in a fast-paced, highly technical environment\n  * Demonstrable strong Customer Service experience\n  * Ability to be on site and on call\n  * Excellent verbal and written communication skills\n  * Ability to work independently, as well as part of a team\n  * Willing to work after hours and weekends as needed \n\n\n\n \n\n  \n  \n\\---- Basic Qualifications ----  \n  \n\n\n  * Work as the primary point of contact for complex, cross functional programs under the Global IT Strategy &amp; Operations pillar.\n  * Will represent multiple aspects of operations, including needs/goals/gaps in discussions across stakeholders.\n  * Will Identify business needs and design new processes/technical solutions and/or influence existing processes to solve this need.\n  * Team up with IT-Eng leaders and drive solutions to highly technical problems.\n  * Work collaboratively to develop program milestones, track progress, handle cross-team dependencies, mitigate risks and run cross-team communications.\n  * Deliver results by tactically and strategically working across functions and teams within the multiple technical domains of IT-Engineering and IT Operations, with an appropriate multi-domain technical understanding of functional areas.\n  * Maintain a Continual Improvement focus for all areas of technology - what can be streamlined, automated, prevented and simplified etc - you will build and lead projects and initiatives around building for efficiency for Operations.\n  * Define and drive operations goals and metrics (KPIs, OKRs, etc.); establish tooling for tracking and reporting.\n  * Expected to consider the customer impact of every decision and how it affects quality of services\n  * Expected to think beyond team boundaries and regularly influence operational direction beyond these boundaries\n\n\n\n \n\n  \n  \n\\---- Bonus Points ----  \n  \n\n\n  * Experience in powershell; Chef; Ruby; ABM; Linux; Service Now; Git; Sensu; NSX; Cisco; juniper\n  * 10+ years in a help desk role supporting Apple and PC hardware and software\n  * Managed \\ lead multifunctional teams\n  * Are interested in building or expanding your technology management experience.\n\n\n\n \n\n\n\nAt Uber, we reimagine the way the world moves for the better. The idea was born on a snowy night in Paris in 2008, and ever since then, our DNA of reimagination and reinvention carries on. We've grown into a global platform moving people and things in ever-expanding ways, taking on big problems to help drivers, riders, delivery partners, and eaters make movement happen at the push of a button for everyone, everywhere.\n\n \n\n  \nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n  \nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role. \n\n \n\n  \nUber is committed to a safe workplace.  We have implemented COVID-19 safety protocols that meet or exceed local public health guidelines.  Workplace safety remains our number one priority.  As a result, and depending on the workplace location, Uber either requires* or recommends employees be vaccinated to access any of our facilities; this is subject to change solely at the Company's discretion. \n\n \n\n  \n* Accommodations may be available based on religious and/or medical conditions, or as required by applicable law. To request an accommodation, please reach out to accommodations@uber.com",
+                "department": "Engineering",
+                "type": "",
+                "programAndPlatform": "Service Desk",
+                "location": {
+                    "country": "IND",
+                    "region": "",
+                    "city": "Karnataka",
+                    "countryName": "India"
+                },
+                "featured": false,
+                "level": "5",
+                "creationDate": "2022-04-05T00:43:00.000Z",
+                "otherLevels": null,
+                "team": "IT Eng",
+                "portalID": "EXTERNAL",
+                "isPipeline": false,
+                "statusID": "D31001",
+                "statusName": "Approved",
+                "updatedDate": "2022-07-22T08:08:00.000Z",
+                "uniqueSkills": "",
+                "allLocations": [
+                    {
+                        "country": "IND",
+                        "region": "Telangana",
+                        "city": "Hyderabad",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "",
+                        "city": "Karnataka",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "",
+                        "city": "Telangana",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "",
+                        "city": "Remote",
+                        "countryName": "India"
+                    }
+                ]
+            },
+            {
+                "id": 114780,
+                "title": "uReturn -Software Engineer / System Engineer  / Data Engineer",
+                "description": "## About the Program:\n\nThe **uReturn,** a returneeship program by Uber is an initiative toward fulfilling its commitment to building sustainable diverse teams. Through this initiative, Uber strives to reach out to women on a career break, due to personal obligations, caregiving responsibilities, etc. who would like to come back into the workforce. It provides a \"bridge\" for them to bounce back into their careers with confidence and comfort.\n\n**uReturn** is a full-time employment program that aims to provide a work environment where women can truly succeed, providing active support through various stages of selection, onboarding &amp; assimilation.\n\nWe are looking to hire Software Engineers / Senior Software Engineers / System Engineers / Senior System Engineers / Data Engineers through this program who will be based out of **Hyderabad/Bengaluru/Remote**. \n\n## **What the Candidate Will Do :**\n\n  * Work with the product managers in one of the Engineering teams in HYD / BLR to develop the products for solving business needs.\n  * Enhance the products and provide extraordinary support\n  * Demonstrate technical expertise &amp; thought leadership\n  * Define/create frameworks and abstractions that are reliable &amp; reusable, anticipate future challenges, support the company's rapid growth, avoid surprising outcomes, and lessen the workload of other engineers\n  * Identify and solve major architectural problems by going deep in your field or broad across different teams.\n\n\n\n## Minimum qualifications:\n\nBachelor's degree or equivalent in Computer Science, Engineering, Mathematics or related field or 4-year full-time Software Engineering work experience, which includes 3-year total technical software engineering experience in ***any*** of the following areas:\n\n  * Android development using Java or Kotlin\n  * iOS development\n  * Programming language (e.g. C, C++, Java, Python, or Go)\n  * Programming language (e.g. JavaScript, CSS, Node.js)\n  * Programming and scripting language (e.g. Python, SQL, Java/Scala)\n  * Oracle ERP system integration experience\n  * Architecting, building, and maintaining web applications\n  * Architecting, building and maintaining scalable services\n  * Big data frameworks (e.g. Spark, Flink, Presto), data modeling, and writing ETLs\n  * Designing pipelines or system components in the big data ecosystem\n\n\n\nNote the 3-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). \n\nThe year of specialized experience is not necessarily in addition to the years of Education &amp; full-time work experience indicated.\n\n \n\n \n\n\n\nAt Uber, we reimagine the way the world moves for the better. The idea was born on a snowy night in Paris in 2008, and ever since then, our DNA of reimagination and reinvention carries on. We've grown into a global platform moving people and things in ever-expanding ways, taking on big problems to help drivers, riders, delivery partners, and eaters make movement happen at the push of a button for everyone, everywhere.\n\n \n\n  \nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n  \nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role. \n\n \n\n  \nUber is committed to a safe workplace.  We have implemented COVID-19 safety protocols that meet or exceed local public health guidelines.  Workplace safety remains our number one priority.  As a result, and depending on the workplace location, Uber either requires* or recommends employees be vaccinated to access any of our facilities; this is subject to change solely at the Company's discretion. \n\n \n\n  \n* Accommodations may be available based on religious and/or medical conditions, or as required by applicable law. To request an accommodation, please reach out to accommodations@uber.com",
+                "department": "Engineering",
+                "type": "",
+                "programAndPlatform": "Realtime Rider Accounting",
+                "location": {
+                    "country": "IND",
+                    "region": "Karnataka",
+                    "city": "Bangalore",
+                    "countryName": "India"
+                },
+                "featured": false,
+                "level": "4",
+                "creationDate": "2022-05-06T04:24:00.000Z",
+                "otherLevels": null,
+                "team": "Backend",
+                "portalID": "EXTERNAL",
+                "isPipeline": false,
+                "statusID": "D31001",
+                "statusName": "Approved",
+                "updatedDate": "2022-07-22T07:55:00.000Z",
+                "uniqueSkills": "",
+                "allLocations": [
+                    {
+                        "country": "IND",
+                        "region": "Karnataka",
+                        "city": "Bangalore",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "Telangana",
+                        "city": "Hyderabad",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "",
+                        "city": "Remote",
+                        "countryName": "India"
+                    }
+                ]
+            },
+            {
+                "id": 116502,
+                "title": "Lead - Planning & Projects",
+                "description": "**About the Role**\n\n \n\nThis incumbent will join the Central supply team of Uber India, South Asia. This team looks into all avenues to ensure sustainable growth of vehicle supply into the marketplace.\n\n \n\nAs a key member of the team, you will help drive the strategic decision-making processes throughout the region through your analytical and operational approach. We're looking for someone who can set a vision and tackle problems from 30,000 feet as well as dive deep into the details. Working across different functions and geographies will mean you will have considerable visibility of business operations and opportunities to drive meaningful business outcomes.\n\n \n\n \n\n\n\nAt Uber, we reimagine the way the world moves for the better. The idea was born on a snowy night in Paris in 2008, and ever since then, our DNA of reimagination and reinvention carries on. We've grown into a global platform moving people and things in ever-expanding ways, taking on big problems to help drivers, riders, delivery partners, and eaters make movement happen at the push of a button for everyone, everywhere.\n\n \n\n  \nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n  \nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role. \n\n \n\n  \nUber is committed to a safe workplace.  We have implemented COVID-19 safety protocols that meet or exceed local public health guidelines.  Workplace safety remains our number one priority.  As a result, and depending on the workplace location, Uber either requires* or recommends employees be vaccinated to access any of our facilities; this is subject to change solely at the Company's discretion. \n\n \n\n  \n* Accommodations may be available based on religious and/or medical conditions, or as required by applicable law. To request an accommodation, please reach out to accommodations@uber.com",
+                "department": "Operations",
+                "type": "",
+                "programAndPlatform": "",
+                "location": {
+                    "country": "IND",
+                    "region": "Karnataka",
+                    "city": "Bangalore",
+                    "countryName": "India"
+                },
+                "featured": false,
+                "level": "5",
+                "creationDate": "2022-07-14T17:30:00.000Z",
+                "otherLevels": null,
+                "team": "Operations",
+                "portalID": "EXTERNAL",
+                "isPipeline": false,
+                "statusID": "D31001",
+                "statusName": "Approved",
+                "updatedDate": "2022-07-22T08:02:00.000Z",
+                "uniqueSkills": "",
+                "allLocations": [
+                    {
+                        "country": "IND",
+                        "region": "Karnataka",
+                        "city": "Bangalore",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "Haryana",
+                        "city": "Gurgaon",
+                        "countryName": "India"
+                    }
+                ]
+            },
+            {
+                "id": 112420,
+                "title": "L&D Operations Specialist _ BPOs",
+                "description": "## **About the Role**\n\nAt Uber, providing elite support to our partners (riders, drivers, and restaurants) is essential to our success. Building the capability of our support teams to consistently deliver extreme levels of service is challenging and sophisticated - and incredibly satisfying!\n\nWe are looking for a to facilitate/implement and govern our training programs across Community Operations. This role is pivotal in ensuring we're able to build the best learning experience to increase retention and transfer of both technical and non-technical subject matter.\n\n## **What the Candidate Will Need / Bonus Points**\n\n\\---- What the Candidate Will Do ----\n\n  * **Training Delivery**: Deliver TTT on need basis for BPOs for New Site Launch/New LOB Launch/Upskilling/ Project based trainings\n  * **Training Logistics**: Coordinate with PMs/ Sr Delivery Specialist and Delivery Specialist &amp; BPO L&amp;D for arranging the TTT/ New LOB Launch/New Site Launch.\n  * **Training Reports:** Publish timely training reports. Provide visibility on training progress (highlights/lowlights/ and action items. Efficiently track and action on delivery tasks via Internal Tool\n  * **Performance Management:** Oversee and monitor training, nesting and 0-30 days performance. Facilitate sessions with BPO L&amp;D POC to conduct TNAs, gather performance insights and support the BPOs to create learning solutions that will help drive performance.\n  * **BPO Metrics &amp; Reporting**: Guide and support the BPOs in reporting their business metrics accurately and effectively in WBR/Bi Weekly Sync/MBR/QBR sessions.\n  * **BPO Communications:** Actively participate during the BPO L&amp;D syncs. Ensure that BPOs are updated on Uber priorities and upcoming programs. Gather and understand BPOs challenges, pain points and requests to effectively plan and support them. Publish BPO L&amp;D Newsletter.\n  * **BPO Governance**: Oversee to ensure BPOs are adhering to Uber L&amp;D ways of working. BPO ILC/FG/TCR and Bliss Sandbox requirements are met. Compliance is maintained in keeping BPO resources up-to-date such as 0-30 insights tracker, mastersheet file, grad rate sheet, POC update sheet and deployment trackers. \n  * **Project Management:** Participate and support in learning delivery BAU and strategic initiatives/projects.\n  * **Site Visits:** Have a first hand view of BPO L&amp;D operations through onsite trainings, certifications and TNAs whenever needed\n  * **Design Support:** Support design team in their curriculum revamp efforts by providing insights and suggestions. Drive participation from the BPOs in reviewing design materials and providing feedback.\n\n\n\n**  \n  \n**\n\n**\\---- Basic Qualifications ----**\n\n** **\n\n**_External Qualifications:_**\n\n  * 3+ years L&amp;D experience\n  * Previous facilitation experience and / or project management experience\n  * Relevant training certifications\n  * Good English language skills\n  * Foundational Analytical skills\n\n\n\n**_Internal Qualifications:_**\n\n  * Intermediate stakeholder management\n  * Foundational analytical skills\n  * Advanced facilitation skills\n  * One completed performance cycle or minimum of six months in prior role\n\n\n\n**Preferred Qualifications:**\n\n  * Experience facilitating training across regions\n  * Proficient in Google Suite\n  * Experience in managing training in Learning Management Systems\n\n\n\nAt Uber, we reinvent the way the world moves for the better. The idea was born on a snowy night in Paris in 2008, and ever since then, our DNA of reimagination and reinvention carries on. We've grown into a global platform moving people and things in ever-expanding ways, taking on big problems to help drivers, riders, delivery partners, and eaters make movement happen at the push of a button for everyone, everywhere.\n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n\n\nAt Uber, we reimagine the way the world moves for the better. The idea was born on a snowy night in Paris in 2008, and ever since then, our DNA of reimagination and reinvention carries on. We've grown into a global platform moving people and things in ever-expanding ways, taking on big problems to help drivers, riders, delivery partners, and eaters make movement happen at the push of a button for everyone, everywhere.\n\n \n\n  \nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n  \nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role. \n\n \n\n  \nUber is committed to a safe workplace.  We have implemented COVID-19 safety protocols that meet or exceed local public health guidelines.  Workplace safety remains our number one priority.  As a result, and depending on the workplace location, Uber either requires* or recommends employees be vaccinated to access any of our facilities; this is subject to change solely at the Company's discretion. \n\n \n\n  \n* Accommodations may be available based on religious and/or medical conditions, or as required by applicable law. To request an accommodation, please reach out to accommodations@uber.com",
+                "department": "Community Operations",
+                "type": "",
+                "programAndPlatform": "",
+                "location": {
+                    "country": "IND",
+                    "region": "Haryana",
+                    "city": "Gurgaon",
+                    "countryName": "India"
+                },
+                "featured": false,
+                "level": "2",
+                "creationDate": "2022-02-21T18:56:00.000Z",
+                "otherLevels": null,
+                "team": "Community Operations",
+                "portalID": "EXTERNAL",
+                "isPipeline": false,
+                "statusID": "D31001",
+                "statusName": "Approved",
+                "updatedDate": "2022-08-11T07:38:00.000Z",
+                "uniqueSkills": "",
+                "allLocations": [
+                    {
+                        "country": "PHL",
+                        "region": "",
+                        "city": "Mabalacat",
+                        "countryName": "Philippines"
+                    },
+                    {
+                        "country": "PHL",
+                        "region": "",
+                        "city": "Taguig City",
+                        "countryName": "Philippines"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "Telangana",
+                        "city": "Hyderabad",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "Haryana",
+                        "city": "Gurgaon",
+                        "countryName": "India"
+                    }
+                ]
+            },
+            {
+                "id": 117061,
+                "title": "Senior Learning Delivery Team Lead",
+                "description": "## **About the Role**\n\nOur Community Operations Managers and Community Support Teams are built upon the foundation that is laid during the learning and onboarding time. CommOps is all about process efficiency, and as an L&amp;D Senior Delivery team lead, you would be ensuring that these teams of rockstars are able to continuously provide world class support to everyone involved in the Uber experience. This role is about building a solid foundation for our COE and BPO Learning programs, scaling it beyond what is today, and pre-empting what it will need to be tomorrow.\n\n \n\nWork alongside our Community Operations Leadership team and own the action plans and initiatives for Learning Delivery programs for US&amp;C. This multifaceted role requires quick thinking and proficiency in leading a team of Learning specialists, responsibilities include:\n\n  * Develop and own the tactical Learning Delivery execution in your geo by understanding its needs, setting department goals and empowering your team to create and execute on established lead measures.\n  * Partner w/ the US&amp;C L&amp;D Instructional Design Team to develop, and maintain new and existing learning programs for the COE and partner BPOs.\n  * Lead and support a team of US&amp;C L&amp;D Learning Delivery Specialists to drive KPI performance in thru effective implementation and execution of training programs.\n  * Build business intelligence around Training KPIs; consistently track and analyze the impact and quality of learning experience to agent performance.\n  * Use Industry Standard L&amp;D best practices to continuously improve US&amp;C's L&amp;D program.\n\n\n\n**What the Candidate Will Do:**\n\n  * **Learning and Development Initiatives: **Periodically evaluate learning needs and develop learning delivery initiatives for your assigned geo.\n  * **People Development: **Look after the development of Learning Delivery Specialists/Sr. Learning Delivery Specialists on training implementation and Uber Manager Qualities thru coaching, mentoring and formal training programs.\n  * **Department Engagement: **Frequently motivate, engage and recognize efforts of the Learning Delivery Team thru an established engagement and R&amp;R program.\n  * **BPO Learning Program Partner: **Partner with BPO L&amp;D Delivery Manager to support partner BPO Learning Delivery execution of Uber regional and global L&amp;D programs and ensure standardized and quality delivery.\n  * **Business Intelligence: **Develop process for tracking and monitoring training performance and insights to drive Nesting and 0-30 day performance and attrition.\n  * **Process Implementation and Change Management:** Effectively execute and communicate training processes and changes to ensure understanding and compliance.\n  * **Thought Partnership:** Build and consistently maintain relationships with Operations, BPOs and regional stakeholders (RCOs) and provide insights for improvement\n  * **Project Management:** Support &amp; sponsor proposed L&amp;D initiatives and experiments to improve training for the team and its lines of business.\n\n\n\n## Basic Qualifications:\n\n  * **Experience:** 5+ Minimum Years of Experience with Learning and Development and 5-7 years of operations management/general management/ support experience\n  * **Learning and Development: **Learning and Development tactical action planning and operational execution\n  * **People Management and Leadership Experience: **Managing 5 or more trainers/senior trainers\n  * **Balance attention to detail with swift execution:** We need to do things quickly, and we need to do them well. Balancing those can be challenging, and this should be a strength\n  * **Clear communicator: **You are a clear and concise communicator with the ability to synthesize a lot of information quickly, highlight the key takeaways, and disseminate actionable insights\n  * **Explorer: **The ability to self-serve, investigate and get the data we require will make you much more effective in this role. Self-starter attitude is a must!\n  * **A high bar across the board: **From your own contributions, to the people you work with, to the products you work on. Always playing to win.\n  * **Flexibility: **Ability to work with remote teams and across time zones to develop action plans and foster a cohesive and creative work environment\n  * **Stakeholder Management:** Ability to build and maintain strong stakeholder relationships\n  * Experienced in Trainer Development and Creating Trainer Development Programs.\n  * Proven effectiveness in Training Needs Analysis and Implementation of Learning Solutions\n\n\n\n\n\nAt Uber, we reimagine the way the world moves for the better. The idea was born on a snowy night in Paris in 2008, and ever since then, our DNA of reimagination and reinvention carries on. We've grown into a global platform moving people and things in ever-expanding ways, taking on big problems to help drivers, riders, delivery partners, and eaters make movement happen at the push of a button for everyone, everywhere.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role.\n\n \n\n \n\nUber is committed to a safe workplace.  We have implemented COVID-19 safety protocols that meet or exceed local public health guidelines.  Workplace safety remains our number one priority.  As a result, and depending on the workplace location, Uber either requires* or recommends employees be vaccinated to access any of our facilities; this is subject to change solely at the Company's discretion.\n\n \n\n \n\n* Accommodations may be available based on religious and/or medical conditions, or as required by applicable law. To request an accommodation, please reach out to [accommodations@uber.com](mailto:accommodations@uber.com).",
+                "department": "Community Operations",
+                "type": "",
+                "programAndPlatform": "",
+                "location": {
+                    "country": "IND",
+                    "region": "Telangana",
+                    "city": "Hyderabad",
+                    "countryName": "India"
+                },
+                "featured": false,
+                "level": "2",
+                "creationDate": "2022-08-09T15:32:00.000Z",
+                "otherLevels": null,
+                "team": "Community Operations",
+                "portalID": "EXTERNAL",
+                "isPipeline": false,
+                "statusID": "D31001",
+                "statusName": "Approved",
+                "updatedDate": "2022-08-23T05:43:00.000Z",
+                "uniqueSkills": "",
+                "allLocations": [
+                    {
+                        "country": "IND",
+                        "region": "Andhra Pradesh",
+                        "city": "Visakhapatnam",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "Telangana",
+                        "city": "Hyderabad",
+                        "countryName": "India"
+                    }
+                ]
+            },
+            {
+                "id": 116865,
+                "title": "Performance Marketing Manager - APAC Mobility",
+                "description": "**About the Role**\n\n \n\nAs part of the APAC Performance Marketing team, you'll be responsible for everything related to Performance Marketing in APAC for Uber's Mobility business. You'll have a deep understanding of regional priorities and challenges; along with expertise in performance marketing. You'll be a key point of contact within the region for Marketing and Operations teams, and work hand-in-hand with them to identify the local challenges and opportunities to shape the best Performance Marketing response. \n\n \n\n**What You'll Do**\n\n  \n\n\n  * Be a knowledge leader in the local business - input local context, including the legislative environment, into global marketing communications and campaigns\n  * Work with marketing and operations teams to understand the challenges faced by the local business, and help develop scalable, regional projects to address these challenges.\n  * Collaborate with global teams to execute and deliver projects and campaigns. \n  * Analyse consumer patterns such as app download trends, conversion rate and competitor analysis to understand the effectiveness of media investment and advise on strategy.\n  * Help plan and prioritise key marketing tactics across global teams and countries, to maximise country growth, revenue and efficiency targets.\n  * Build stakeholder trust between the global performance marketing org and local teams\n  * Monitor and ensure marketing campaigns deliver against monthly / annual targets in terms of users, orders, etc.\n  * Advise on marketing tactics (promo, creative message) to be used in ads.\n  * Assist with the localization / translation process of ad copies, creative etc. of local marketing, and act as a quality control for global programs that are localised.\n\n\n\n \n\n**What You'll Need**\n\n  \n\n\n  * Strong understanding of all major performance marketing channels including Programmatic Display, UAC and social channels, as well as of digital marketing platforms (Google Ads, Facebook Ads Manager, DV360 etc.) \n  * Strong understanding of marketing channel attribution, measurement frameworks, and key business and channel metrics.\n  * Experience as a channel manager on UAC, SEM or Paid-social is a plus\n  * In-house performance marketing experience preferred\n  * Experience with Tableau and other business intelligence tools\n  * Strong Excel / data skills\n  * Excellent communication, stakeholder management and organization skills. You will be required to work with a variety of stakeholders and teams of varying technical ability, and across a range of projects.\n  * Ability to analyse and structure data, turn data into insights, and insights into actions that assist senior management and other stakeholders with decision making\n  * A hard-working, detail-oriented, organized, and motivated self-starter, constantly striving to improve skill set and look for ways to add value to the team. Thrives on challenges and is not deterred by difficult situations\n\n\n\n\n\nAt Uber, we reimagine the way the world moves for the better. The idea was born on a snowy night in Paris in 2008, and ever since then, our DNA of reimagination and reinvention carries on. We've grown into a global platform moving people and things in ever-expanding ways, taking on big problems to help drivers, riders, delivery partners, and eaters make movement happen at the push of a button for everyone, everywhere.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role.\n\n \n\n \n\nUber is committed to a safe workplace.  We have implemented COVID-19 safety protocols that meet or exceed local public health guidelines.  Workplace safety remains our number one priority.  As a result, and depending on the workplace location, Uber either requires* or recommends employees be vaccinated to access any of our facilities; this is subject to change solely at the Company's discretion.\n\n \n\n \n\n* Accommodations may be available based on religious and/or medical conditions, or as required by applicable law. To request an accommodation, please reach out to [accommodations@uber.com](mailto:accommodations@uber.com).",
+                "department": "Marketing",
+                "type": "",
+                "programAndPlatform": "",
+                "location": {
+                    "country": "IND",
+                    "region": "Karnataka",
+                    "city": "Bangalore",
+                    "countryName": "India"
+                },
+                "featured": false,
+                "level": "4",
+                "creationDate": "2022-08-01T01:32:00.000Z",
+                "otherLevels": null,
+                "team": "Marketing",
+                "portalID": "EXTERNAL",
+                "isPipeline": false,
+                "statusID": "D31001",
+                "statusName": "Approved",
+                "updatedDate": "2022-08-08T06:42:00.000Z",
+                "uniqueSkills": "",
+                "allLocations": [
+                    {
+                        "country": "IND",
+                        "region": "Haryana",
+                        "city": "Gurgaon",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "Karnataka",
+                        "city": "Bangalore",
+                        "countryName": "India"
+                    }
+                ]
+            },
+            {
+                "id": 117246,
+                "title": "Sr. Manager, Business Operations - Auto Marketplace",
+                "description": "**About the Role**\n\n \n\nAs a marketplace manager, you will be responsible for growing key markets in 3 wheeler portfolio while improving rider and driver experience. This is a unique opportunity to get **'the Uber 1.0'** experience on the fastest growing product category in India SA - **Uber Auto** and create direct P&amp;L impact through sustainable growth. You will lead multiple interesting projects to improve Auto's penetration spanning across entire India and South Asia, shape product-led growth, build deep understanding of customers, balance pricing/incentives/take-rates to grow business, expanding across Tier-2/3 cities amongst others while working alongside a very capable cross-functional team. This role will be pivotal to achieving all the above goals by helping drive strategic decisions through creative thinking, hustle, data driven approach, analytics, and operational mindset.\n\n \n\n**What You'll do: **\n\n  * Lead marketplace for a bunch of cities and drive growth &amp; improve rider and driver experience through strategic initiatives\n  * Partner with cross functional teams (City team, New supply, Driver operations, Finance) to drive Auto category's agenda and measure the impact of new/existing product launches &amp; processes\n  * Partner with global product and hailables team to a) Launch and scale new product features b) Identity and deploy best practices from other regions c) Improve VC profile of the category\n  * Critically analyze existing data and develop frameworks to continuously improve existing processes on pricing, incentive and marketplace management\n  * Forecast growth trajectory of the category and plan supply requirements to meet/ exceed both topline and bottomline target\n  * Be the voice of riders and drivers to identify product/ process gaps and coordinate with right teams to fix platform experience\n\n\n\n \n\n**What You'll need: **  \n\n\n  * 5+ yr of work experience in preferably analytics/consulting/startups\n  * Keen interest in marketplace and growth related analytics - MUST NEED!\n  * Exceptional Analytical, problem solving, Excel and data management skills\n  * Bachelors degree preferred in engineering, commerce or sciences\n  * A proactive nature; when you see an opportunity, you address it, not waiting for someone else to take initiative\n  * Ability to work with remote teams and across time zones to develop strategies and foster a cohesive and creative work environment\n  * Strong communication and organization skills, with the ability to synthesize a lot of information quickly, highlight the key take aways, and disseminate actionable insights\n  * A desire to learn and constantly improve; you're expected to take initiative and experiment with new processes or improve existing one.\n  * Sense of urgency and pace in delivering tangible results \n\n\n\n \n\n\n\nAt Uber, we reimagine the way the world moves for the better. The idea was born on a snowy night in Paris in 2008, and ever since then, our DNA of reimagination and reinvention carries on. We've grown into a global platform moving people and things in ever-expanding ways, taking on big problems to help drivers, riders, delivery partners, and eaters make movement happen at the push of a button for everyone, everywhere.\n\n \n\n \n\nWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.\n\n \n\n \n\nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role.\n\n \n\n \n\nUber is committed to a safe workplace.  We have implemented COVID-19 safety protocols that meet or exceed local public health guidelines.  Workplace safety remains our number one priority.  As a result, and depending on the workplace location, Uber either requires* or recommends employees be vaccinated to access any of our facilities; this is subject to change solely at the Company's discretion.\n\n \n\n \n\n* Accommodations may be available based on religious and/or medical conditions, or as required by applicable law. To request an accommodation, please reach out to [accommodations@uber.com](mailto:accommodations@uber.com).",
+                "department": "Operations",
+                "type": "",
+                "programAndPlatform": "",
+                "location": {
+                    "country": "IND",
+                    "region": "Karnataka",
+                    "city": "Bangalore",
+                    "countryName": "India"
+                },
+                "featured": false,
+                "level": "4",
+                "creationDate": "2022-08-18T12:41:00.000Z",
+                "otherLevels": null,
+                "team": "Operations",
+                "portalID": "EXTERNAL",
+                "isPipeline": false,
+                "statusID": "D31001",
+                "statusName": "Approved",
+                "updatedDate": "2022-08-22T08:08:00.000Z",
+                "uniqueSkills": "",
+                "allLocations": [
+                    {
+                        "country": "IND",
+                        "region": "Karnataka",
+                        "city": "Bangalore",
+                        "countryName": "India"
+                    },
+                    {
+                        "country": "IND",
+                        "region": "Haryana",
+                        "city": "Gurgaon",
+                        "countryName": "India"
+                    }
+                ]
+            }
+        ],
+        "totalResults": {
+            "low": 201,
+            "high": 0,
+            "unsigned": false
+        }
+    }
+}
