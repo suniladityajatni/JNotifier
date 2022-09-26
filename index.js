@@ -113,13 +113,13 @@ async function runEvery24Hours() {
     return finalResult;
 }
 
-// const repeatAfter=24*3600*60;
-// setTimeout(() => {
+const repeatAfter=24*3600*1000;
+setInterval(() => {
     const a = runEvery24Hours();
     a.then(() => {
         console.log("END");
     })
-// },repeatAfter);
+},repeatAfter);
 
 app.post("/user",[
     body('email').isEmail()
