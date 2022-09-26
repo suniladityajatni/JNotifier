@@ -28,21 +28,27 @@ async function sendAlert(jobs) {
         return;
         
     const users = await User.find();
+    const to=[];
     for (let i = 0; i < users.length; i++) {
-        var mailOptions = {
-            from: 'jobopeningsofcompanies@gmail.com',
-            to: `${users[i].email}`,
-            subject: 'Job Openings',
-            html: data
-        };
-        transporter.sendMail(mailOptions, function (error, info) {
-            if (error) {
-                console.log(error);
-            } else {
-                console.log(`Email sent to ${users[i].email}: ` + info.response);
-            }
-        });
+        to.push(users[i].email);
     }
+    var mailOptions = {
+        from: '"JNotifier" b119004@iiit-bh.ac.in',
+        to: to,
+        subject: 'Job Openings',
+        html: data
+    };
+    transporter.sendMail(mailOptions, function (error, info) {
+        if (error) {
+            console.log(error);
+        } else {
+            console.log(info);
+            const a=info.envelope.to;
+            for(let i=0;i<a.length;i++) {
+                console.log(`Email sent to ${a[i]}` + info.response);
+            }
+        }
+    });
 }
 
 module.exports.config = config;

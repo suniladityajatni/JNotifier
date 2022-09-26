@@ -13,8 +13,11 @@ function App() {
     e.preventDefault();
     console.log(email);
     axiosInstance.post("/user",{email}).then((res) => {
+
       setSucess(true);
     }).catch((err) => {
+      setSucess(false);
+      alert(err.response.data.msg);
       console.error(err);
     });
   }

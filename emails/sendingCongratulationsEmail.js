@@ -30,13 +30,16 @@ async function sendJoiningMessage(email) {
             subject: 'Job Openings',
             html: data
         };
-        transporter.sendMail(mailOptions, function (error, info) {
-            if (error) {
-                console.log(error);
-            } else {
-                console.log(`Email sent to ${email}: ` + info.response);
+        transporter.sendMail(mailOptions,function(err,info){
+            if(err)
+            {
+                console.log(err);
             }
-        });
+            else
+            {
+                console.log(`Email sent sucessfully to ${email}`+info)
+            }
+        })
 }
 
 module.exports.config = config;

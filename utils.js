@@ -8,7 +8,8 @@ async function filterJobs(jobs) {
         ' 2 ',
         'Lead',
         "software engineer 2",
-        "sde 2"
+        "sde 2",
+        "III"
     ];
 
     const unwantedJDs = [

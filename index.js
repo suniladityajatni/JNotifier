@@ -6,12 +6,14 @@ const nodemailer = require('nodemailer');
 const ejs = require('ejs');
 const path = require('path');
 require('dotenv').config();
+const { body, validationResult } = require('express-validator');
 
 // importing the googleHandler to fetch the google jobs
 const getGoogleJobs = require(__dirname + "/handlers/googleHandler.js");
 const getAmazonJobs = require(__dirname + "/handlers/amazonHandler.js");
 const getMicrosoftJobs = require(__dirname + "/handlers/microsoftHandler.js");
 const getUberJobs = require(__dirname + "/handlers/uberHandler.js");
+const getShareChatJobs = require(__dirname + "/handlers/sharechatHandler.js");
 
 // connecting to the database
 require(__dirname + "/db.js")(process.env.MONGO_URL);
@@ -42,6 +44,7 @@ const handlers = [
     { "getJobs": getAmazonJobs, "name": "Amazon" },
     { "getJobs": getMicrosoftJobs, "name": "Microsoft" },
     { "getJobs": getUberJobs, "name": "Uber" },
+    {"getJobs": getShareChatJobs, "name": "ShareChat" },
 
 ];
 
@@ -71,6 +74,8 @@ async function runEvery24Hours() {
         console.log(`Company Name ${handlers[i].name}`);
         const handler = handlers[i];
         const newJobs = await handler.getJobs();
+        if(i==handlers.length-1)
+            console.log(newJobs)
         console.log(`length of fetched jobs: ${newJobs.length}`);
         const filteredNewJobs = await filterJobs(newJobs);
         console.log(`length of filteredNewJobs jobs: ${filteredNewJobs.length}`);
@@ -108,28 +113,52 @@ async function runEvery24Hours() {
     return finalResult;
 }
 
-const repeatAfter=24*3600*60;
-setTimeout(() => {
+// const repeatAfter=24*3600*60;
+// setTimeout(() => {
     const a = runEvery24Hours();
     a.then(() => {
         console.log("END");
     })
-},repeatAfter);
+// },repeatAfter);
 
-app.post("/user", (req, res) => {
+app.post("/user",[
+    body('email').isEmail()
+],(req, res) => {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({"msg":"Please eneter a valid email"});
+    }
+    let newEmail=req.body.email;
     let newUser = new User({ email: req.body.email });
-    newUser.save((error, result) => {
-        if (error) {
-            console.log(error);
-            return res.status(400).send({ error })
+    User.find({email:newEmail}).then((result) => {
+        if(result.length)
+        {
+            return res.status(400).send({ "msg":"Email is already registered" })
         }
-        else {
-            console.log(result);
-            return res.status(200).send({ message: "Done" })
+        else
+        {
+            newUser.save((error, result1) => {
+                if (error) {
+                    console.log(error);
+                    return res.status(400).send({ "msg":"Email is already registered" })
+                }
+                else {
+                    console.log(result1);
+                    try
+                    {
+                        sendJoiningMessage(req.body.email);
+                    }
+                    catch{
+                        return res.status(400).send({"msg":"We are having some problem to send mail to this email pls give some other email"});
+                    }
+                    return res.status(200).send({});
+                }
+            });
         }
-    });
-
-    sendJoiningMessage(req.body.email);
+    }).catch((err) => {
+        console.log(err);
+        return res.status(400).send({ "msg":"Some internal Error occured pls try after some time" })
+    })
 })
 
 app.get("/server", (req, res) => {
