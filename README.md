@@ -17,6 +17,7 @@ This project is designed to automate the process finding new job openings of com
 * Amazon
 * Google
 * Uber
+- ShareChat
 
 
 ## How to Contribute:-
