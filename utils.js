@@ -49,18 +49,18 @@ async function filterJobs(jobs) {
                     // console.log("================================================================");
                     return false;}
         }
-        for (let i=0;i<wantedTitles.length;i++) {
-            let jname=wantedTitles[i];
-            if (job.name.toLowerCase().includes(jname.toLowerCase()))
-                {
-                    // console.log("================================================================");
-                    // console.log(jname.toLowerCase());
-                    // console.log(job.name.toLowerCase());
-                    // console.log("================================================================");
-                    return true;
-                }
-        }
-        return false;
+        // for (let i=0;i<wantedTitles.length;i++) {
+        //     let jname=wantedTitles[i];
+        //     if (job.name.toLowerCase().includes(jname.toLowerCase()))
+        //         {
+        //             // console.log("================================================================");
+        //             // console.log(jname.toLowerCase());
+        //             // console.log(job.name.toLowerCase());
+        //             // console.log("================================================================");
+        //             return true;
+        //         }
+        // }
+        return true;
     })
 }
 
