@@ -25,7 +25,7 @@ async function sendJoiningMessage(email) {
 
     
         var mailOptions = {
-            from: EMAIL,
+            from: `"Jnotifier" ${EMAIL}`,
             to: email,
             subject: 'Job Openings',
             html: data

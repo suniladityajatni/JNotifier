@@ -33,7 +33,7 @@ async function sendAlert(jobs) {
         to.push(users[i].email);
     }
     var mailOptions = {
-        from: '"JNotifier" b119004@iiit-bh.ac.in',
+        from: `"JNotifier" ${EMAIL}`,
         to: to,
         subject: 'Job Openings',
         html: data

@@ -40,11 +40,11 @@ app.use(cors());
 
 // all handles in one place
 const handlers = [
-    // { "getJobs": getGoogleJobs, "name": "Google" },
-    // { "getJobs": getAmazonJobs, "name": "Amazon" },
+    { "getJobs": getGoogleJobs, "name": "Google" },
+    { "getJobs": getAmazonJobs, "name": "Amazon" },
     { "getJobs": getMicrosoftJobs, "name": "Microsoft" },
-    // { "getJobs": getUberJobs, "name": "Uber" },
-    // {"getJobs": getShareChatJobs, "name": "ShareChat" },
+    { "getJobs": getUberJobs, "name": "Uber" },
+    {"getJobs": getShareChatJobs, "name": "ShareChat" },
 
 ];
 
@@ -114,12 +114,12 @@ async function runEvery24Hours() {
 }
 
 const repeatAfter=1*3600*1000;
-// setInterval(() => {
+setInterval(() => {
     const a = runEvery24Hours();
     a.then(() => {
         console.log("END");
     })
-// },repeatAfter);
+},repeatAfter);
 
 app.post("/user",[
     body('email').isEmail()
