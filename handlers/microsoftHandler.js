@@ -117,15 +117,17 @@ async function getMicrosoftJobs(){
     const finalData=[];
     for(let i=0;i<data.length;i++) {
         const href=data[i];
+        console.log(href);
         finalData.push({
             url:href,
-            name:href.slice(57),
+            name:href.slice(56),
             companyName:"Microsoft",
             location:"India",
             jd:"",
-            id:href.slice(49,56),
+            id:href.slice(49,55),
         });
     }
+    console.log(finalData);
     return finalData;
 }
 
