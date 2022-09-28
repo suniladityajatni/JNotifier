@@ -79,7 +79,7 @@ async function getMicrosoftJobs(){
       });
     const pagesArrpromise=await browserOpenpromise.pages();
     const page=pagesArrpromise[0];
-    let gotoPromise=await page.goto("https://careers.microsoft.com/students/us/en/search-results?keywords=software%20engineering");
+    let gotoPromise=await page.goto("https://careers.microsoft.com/students/us/en/search-results");
     let visible1=await page.waitForSelector("body > section > div > div > div > div.cookie-button-area > button.btn.primary-button.au-target");
     let clickPromise=await page.click("body > section > div > div > div > div.cookie-button-area > button.btn.primary-button.au-target");
     let visible2=await page.waitForSelector("body > div.ph-page > div.body-wrapper.ph-page-container > div > div.row > div.col-md-4.col-sm-5.addition-padding > section:nth-child(1) > div > div > div.au-target.phs-filter-panels.show > div:nth-child(3) > div.au-target.panel-heading > span > button");
